@@ -15,6 +15,6 @@ For development, you will only need Node.js.
 ## Running the project
 
     $ git clone https://github.com/ShivamAgarwal-code/EduBrain.git
-    $ cd brainstormy-games
+    $ cd EduBrain
     $ npm install
     $ node index.js
